@@ -1,16 +1,16 @@
 # The Tap (Mr. Cooper's Tap House)
 
-## By Ben Kiggen
+### By Ben Kiggen
 
-# Description
+## Description
 
-## A keg-maintenance system with both user and admin views
+A keg-maintenance system with both user and admin views. This repo contains a rebuild of [this project](https://github.com/bkiggen/TheTap) using create-react-app. 
 
-## Requirements
+### Requirements
 
  * Node Package Manager
 
-## Install
+### Install
 
     $ git clone https://github.com/bkiggen/thetap
     $ cd thetap
