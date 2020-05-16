@@ -39,7 +39,8 @@ const graphicContainerStyles = {
 const beerButtonStyles = {
   display: 'flex',
   justifyContent: 'flex-end',
-  width: '165px'
+  width: '165px',
+  cursor: 'pointer'
 };
 
 
